@@ -1,1 +1,1 @@
-# nom-mate
+# Nom' Mate UI/UX Project
